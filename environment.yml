@@ -1,0 +1,8 @@
+name: dbhydro
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
